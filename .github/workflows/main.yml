@@ -6,7 +6,7 @@ env:
   flutter_version: "2.5.3"
 jobs:
   build:
-    name: Test and Build APK
+    name: Test app
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -26,7 +26,3 @@ jobs:
       run: flutter pub get
     - name: Test
       run: flutter test
-    - name: Build APK
-      run: flutter build apk
-    - name: Build Appbundle
-      run: flutter build appbundle
