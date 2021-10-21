@@ -1,5 +1,7 @@
 # Clean Architecture & TDD with Flutter
 
+[![Flutter basics](https://github.com/RazvanRauta/clean_architecture_flutter/actions/workflows/main.yml/badge.svg)](https://github.com/RazvanRauta/clean_architecture_flutter/actions/workflows/main.yml)
+
 Keeping your code clean and tested are the two most important development practices. 
 In Flutter, this is even more true than with other frameworks. On one hand, it's nice 
 to hack a quick app together, on the other hand, larger projects start falling apart 
