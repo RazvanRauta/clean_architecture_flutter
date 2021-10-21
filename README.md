@@ -10,6 +10,8 @@ This is where we can employ clean architecture and test driven development. As
 proposed by our friendly Uncle Bob, we should all strive to separate code into 
 independent layers and depend on abstractions instead of concrete implementations.
 
+Based on [Clean Architecture & TDD with Flutter](https://resocoder.com/flutter-clean-architecture-tdd/)
+
 ## Getting Started
 
 `flutter run`
