@@ -29,7 +29,7 @@ void main() {
           .thenAnswer((_) async => Right(tNumberTrivia));
       //act
 
-      final result = await usecase(NoParams());
+      final result = await usecase();
 
       //assert
 
